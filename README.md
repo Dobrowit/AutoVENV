@@ -6,8 +6,9 @@ Scripts for automatically setup venv:
 - download requirements
 - start you python app
 
-How setup
+How to setup and run:
 - copy all scripts into directory with python scrip
 - create requirements.txt (pip freeze > requirements.txt)
-- open in notepad start.bat and set the appropriate name of the script you want to start (app variable)
+- edit start.bat and set the appropriate name of the script you want to start (set app=myapp.py)
 - run start.bat
+- optionally you can use the rmvenv.bat script for remove venv
