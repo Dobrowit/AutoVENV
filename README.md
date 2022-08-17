@@ -17,6 +17,7 @@ How to setup and run:
 - run start.bat
 - optionally you can use the rmvenv.bat script for remove venv
 
-https://www.youtube.com/watch?v=Re4L7MZ0Yko
 
-[![Wideo](https://img.youtube.com/vi/Re4L7MZ0Yko/maxresdefault.jpg)](https://www.youtube.com/watch?v=Re4L7MZ0Yko)
+
+https://user-images.githubusercontent.com/10416814/185184074-1b36fbe4-8633-4825-b975-10e931e992b0.mp4
+
