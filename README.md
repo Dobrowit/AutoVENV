@@ -3,8 +3,10 @@ Scripts for automatically setup venv:
 
 - detect python
 - setup venv
+- update pip
 - download requirements
 - start you python app
+- if venv exist just start you app
 
 <img src="https://github.com/morgor/AutoVENV/blob/main/screenshot.png" alt="screnshot">
 
