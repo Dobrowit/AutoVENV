@@ -19,4 +19,4 @@ How to setup and run:
 
 https://www.youtube.com/watch?v=Re4L7MZ0Yko
 
-[![Watch the video](https://img.youtube.com/vi/Re4L7MZ0Yko/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://www.youtube.com/watch?v=Re4L7MZ0Yko))
+[![Wideo](https://img.youtube.com/vi/Re4L7MZ0Yko/maxresdefault.jpg)](https://www.youtube.com/watch?v=Re4L7MZ0Yko)
