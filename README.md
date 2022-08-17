@@ -10,6 +10,7 @@ Features:
 - download requirements
 - start you python app in venv
 - if venv exist just start you app
+- automatically downloads and installs python
 
 <img src="https://github.com/morgor/AutoVENV/blob/main/screenshot.png" alt="screnshot">
 
