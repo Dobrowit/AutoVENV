@@ -1,5 +1,7 @@
 # AutoVENV
-Scripts for automatically setup venv. AutoENV is fast and easy way to deploy python app.
+Scripts for automatically setup venv and easy way to deploy python app.
+
+https://user-images.githubusercontent.com/10416814/185184074-1b36fbe4-8633-4825-b975-10e931e992b0.mp4
 
 Features:
 - detect python
@@ -17,5 +19,3 @@ How to setup and run:
 - edit start.bat and set the appropriate name of the script you want to start (set app=myapp.py)
 - run start.bat
 - optionally you can use the rmvenv.bat script for remove venv
-
-https://user-images.githubusercontent.com/10416814/185184074-1b36fbe4-8633-4825-b975-10e931e992b0.mp4
