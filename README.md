@@ -12,8 +12,6 @@ Features:
 - if venv exist just start you app
 - automatically downloads and installs python
 
-<img src="https://github.com/morgor/AutoVENV/blob/main/screenshot.png" alt="screnshot">
-
 How to setup and run:
 - copy all scripts into directory with python scrip
 - create requirements.txt (pip freeze > requirements.txt)
