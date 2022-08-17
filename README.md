@@ -16,3 +16,9 @@ How to setup and run:
 - edit start.bat and set the appropriate name of the script you want to start (set app=myapp.py)
 - run start.bat
 - optionally you can use the rmvenv.bat script for remove venv
+
+ <video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video> 
