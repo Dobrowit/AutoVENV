@@ -1,2 +1,7 @@
 # AutoVENV
-Scripts for utomaticly setup venv and download requirements
+Scripts for automatically setup venv and download requirements:
+
+- detect python
+- setup venv
+- download requirements
+- start you python app
