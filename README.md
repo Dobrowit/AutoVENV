@@ -17,5 +17,4 @@ How to setup and run:
 - run start.bat
 - optionally you can use the rmvenv.bat script for remove venv
 
-<video controls><source src="https://github.com/morgor/AutoVENV/blob/main/demo_autovenv.mp4" type="video/mp4">
-Your browser does not support the video tag.</video> 
+https://www.youtube.com/watch?v=Re4L7MZ0Yko
