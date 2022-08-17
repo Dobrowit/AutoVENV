@@ -10,7 +10,7 @@ Features:
 - download requirements
 - start you python app in venv
 - if venv exist just start you app
-- automatically downloads and installs python
+- automatically download and install python
 
 How to setup and run:
 - copy all scripts into directory with python scrip
