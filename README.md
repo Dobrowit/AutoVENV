@@ -6,6 +6,8 @@ Scripts for automatically setup venv:
 - download requirements
 - start you python app
 
+<img src=https://github.com/morgor/AutoVENV/blob/main/screenshot.png?raw=true" alt="screnshot">
+
 How to setup and run:
 - copy all scripts into directory with python scrip
 - create requirements.txt (pip freeze > requirements.txt)
