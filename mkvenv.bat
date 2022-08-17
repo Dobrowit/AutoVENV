@@ -106,9 +106,15 @@ echo:
 echo %_bBlue%%_fBWhite% Create venv... %_RESET%%_fGreen%
 python -m venv venv
 echo Upgrade PIP and install requirements...
-call venv\Scripts\activate.bat
-venv\Scripts\python.exe -m pip install --upgrade pip
-pip install -r requirements.txt
+if exist requirements.txt (
+	call venv\Scripts\activate.bat
+	venv\Scripts\python.exe -m pip install --upgrade pip
+	pip install -r requirements.txt
+) else (
+	echo:
+	echo %_fRed%requirements.txt file not exist!%_RESET%
+	exit /B
+)
 timeout 1 >NUL
 echo:
 
