@@ -1,4 +1,6 @@
 @echo off&setlocal
+:: rmvenv.bat
+
 if exist venv\ (
 	echo Delete venv directory...
 	rd /S /Q venv
