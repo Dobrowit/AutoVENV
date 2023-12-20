@@ -2,8 +2,7 @@
 :: mkvenv.bat
 
 if "%app%"=="" (
-	echo This script work only by call from start.bat!
-:: you can fix it by setting variable app
+	echo This script work by call from start.bat!
 	exit /B
 )
 
