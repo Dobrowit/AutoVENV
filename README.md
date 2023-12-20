@@ -1,8 +1,6 @@
 # AutoVENV
 Scripts for automatically setup venv and easy way to deploy python app.
 
-https://user-images.githubusercontent.com/10416814/185184074-1b36fbe4-8633-4825-b975-10e931e992b0.mp4
-
 Features:
 - detect python
 - setup venv
