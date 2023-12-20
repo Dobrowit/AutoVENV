@@ -114,5 +114,6 @@ echo:
 
 :: Finaly start app
 echo %_RESET%%_fBlue%Starting %app%%_RESET%
-start venv\Scripts\pythonw.exe %app%
-timeout 5 >NUL
+::start venv\Scripts\pythonw.exe %app%
+venv\Scripts\python.exe %app%
+::timeout 5 >NUL
