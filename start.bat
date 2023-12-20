@@ -1,5 +1,4 @@
 @echo off&setlocal
-:: start_kakadufm.bat
 
 set app=myapp.py
 set python_url=https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe
